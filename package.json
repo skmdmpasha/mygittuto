@@ -1,0 +1,17 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress open"
+  },
+  "author": "pasha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.5.0"
+  },
+  "dependencies": {
+    "electron": "^11.3.0"
+  }
+}
